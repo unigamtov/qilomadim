@@ -1,0 +1,241 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+button {
+    box-sizing: border-box;
+    border: 1.5px solid rgb(44, 40, 48);
+    background: rgb(255, 255, 255);
+    width: 146px;
+    height: 40px;
+}
+
+header #umar {
+    display: flex;
+    align-items: center;
+}
+
+#section {
+    display: flex;
+    background: rgb(45, 38, 65);
+    width: 100%;
+    height: 800px;
+}
+
+section img {
+    width: 1004px;
+    height: 670px;
+}
+
+#umarjon {
+    box-sizing: border-box;
+    border: 1.5px solid rgb(255, 255, 255);
+    position: relative;
+    top: 200px;
+    left: 100px;
+}
+
+#org {
+    width: 540px;
+
+}
+
+
+main section {
+    color: rgb(44, 40, 48);
+    font-family: DM Serif Display;
+    font-size: 72px;
+    font-weight: 400;
+    line-height: 64px;
+    letter-spacing: -1px;
+    text-align: left;
+
+}
+
+
+
+section #card {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    position: relative;
+    top: 300px;
+    right: 20px;
+
+}
+
+section h5 {
+    display: flex;
+    position: relative;
+    right: 40px;
+}
+
+#card img {
+    position: relative;
+    right: 50px;
+}
+
+#h6 {
+    color: rgb(255, 255, 255);
+    font-family: DM Serif Display;
+    font-size: 56px;
+    font-weight: 400;
+    line-height: 56px;
+    letter-spacing: -0.78px;
+    text-align: left;
+    width: 650px;
+    padding: 69px 81px;
+
+}
+
+
+#still {
+    box-sizing: border-box;
+    width: 160px;
+    height: 40px;
+
+    border: 1.5px solid rgb(255, 255, 255);
+    color: rgb(255, 255, 255);
+    font-family: Karla;
+    font-size: 13px;
+    font-weight: 700;
+    line-height: 15px;
+    letter-spacing: 1.5px;
+    text-align: center;
+    position: relative;
+    left: 855px;
+    bottom: 180px;
+}
+
+footer #box1 {
+    width: 1110px;
+    height: 265px;
+    padding: 64px 165px;
+    position: relative;
+    left: 165px;
+    top: 500px;
+
+}
+
+footer #um7 {
+    display: flex;
+    gap: 16px;
+    position: absolute;
+    right: 0px;
+    top: 0px;
+}
+
+#box2 {
+    position: relative;
+    width: 255px;
+    height: 159px;
+}
+
+#box2 #uy1 {
+    color: rgb(131, 125, 136);
+    font-family: Karla;
+    font-size: 13px;
+    font-weight: 700;
+    line-height: 15px;
+    letter-spacing: 1.5px;
+    text-align: left;
+    position: absolute;
+    top: 0px;
+}
+
+#box2 #uy2 {
+    color: rgb(45, 38, 65);
+    font-family: Karla;
+    font-size: 13px;
+    font-weight: 700;
+    line-height: 15px;
+    letter-spacing: 1.5px;
+    text-align: left;
+    position: relative;
+    top: 50px;
+}
+
+#box2 #uy3 {
+    color: rgb(45, 38, 65);
+    font-family: Karla;
+    font-size: 13px;
+    font-weight: 700;
+    line-height: 15px;
+    letter-spacing: 1.5px;
+    text-align: left;
+    position: relative;
+    top: 70px;
+}
+
+#section8 {
+    gap: 30px;
+    align-items: center;
+    display: flex;
+    width: 1110px;
+    height: 160px;
+    position: relative;
+    right: 165px;
+    top: 106px;
+}
+
+@media (max-width:568px) {
+    #section img{
+/* Mask */
+position: absolute;
+width: 8000px;
+height: 500px;
+left: 0;
+right: 0;
+top: 70px;
+bottom: 2820px;
+    }
+    #section{
+        flex-direction: column;
+        width: 100%;
+        height: 980px;
+    }
+
+#umar77{
+    width: 375px;
+height: 500px;
+position: absolute;
+top: 500px;
+}
+#org p{
+    width: 327px;
+height: 130px;
+}
+
+#umar77 h2{
+    width: 327px;
+height: 96px;
+}
+
+#umar1{
+ /* We’re different */
+position: absolute;
+width: 800px;
+height: 48px;
+left: -128px;
+right: px;
+
+bottom: 200px;   
+}
+
+#card{
+    flex-direction: column;
+    position: absolute;
+    top: -500px;
+    left: -100px;
+    margin-top: -200px;
+   
+}
+
+}
+
+   
+    
+
+    
